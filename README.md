@@ -8,6 +8,7 @@ Fully configured server
 
 # How to install
 Rename your current resourcesfolder e.g. "resources_old"<br />
+Edit the script (see the comments)<br />
 Start the script and press 1
 
 # Start options
